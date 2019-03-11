@@ -1,0 +1,72 @@
+[07-Mar-2019 23:02:17 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type DOMNodeList as array in /home/checkbuscaa/public_html/sixapi/lib/filtro.php on line 27
+[07-Mar-2019 23:04:37 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type DOMNodeList as array in /home/checkbuscaa/public_html/sixapi/lib/filtro.php on line 27
+[07-Mar-2019 23:07:08 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type DOMNodeList as array in /home/checkbuscaa/public_html/sixapi/lib/filtro.php on line 28
+[07-Mar-2019 23:09:01 America/Sao_Paulo] PHP Warning:  file_get_contents(../cnh1.html): failed to open stream: No such file or directory in /home/checkbuscaa/public_html/sixapi/lib/condutor.php on line 4
+[07-Mar-2019 23:09:29 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type DOMNodeList as array in /home/checkbuscaa/public_html/sixapi/lib/filtro.php on line 28
+[07-Mar-2019 23:09:32 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type DOMNodeList as array in /home/checkbuscaa/public_html/sixapi/lib/filtro.php on line 28
+[07-Mar-2019 23:11:30 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type DOMNodeList as array in /home/checkbuscaa/public_html/sixapi/lib/filtro.php on line 28
+[07-Mar-2019 23:12:26 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type DOMNodeList as array in /home/checkbuscaa/public_html/sixapi/lib/filtro.php on line 28
+[07-Mar-2019 23:12:50 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type DOMNodeList as array in /home/checkbuscaa/public_html/sixapi/lib/filtro.php on line 28
+[07-Mar-2019 23:14:20 America/Sao_Paulo] PHP Warning:  strlen() expects parameter 1 to be string, object given in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 123
+[07-Mar-2019 23:14:20 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type DOMNodeList as array in /home/checkbuscaa/public_html/sixapi/lib/filtro.php on line 30
+[07-Mar-2019 23:14:44 America/Sao_Paulo] PHP Warning:  strlen() expects parameter 1 to be string, object given in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 123
+[07-Mar-2019 23:14:44 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type DOMNodeList as array in /home/checkbuscaa/public_html/sixapi/lib/filtro.php on line 30
+[07-Mar-2019 23:14:49 America/Sao_Paulo] PHP Warning:  strlen() expects parameter 1 to be string, object given in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 123
+[07-Mar-2019 23:15:24 America/Sao_Paulo] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 100
+[07-Mar-2019 23:15:56 America/Sao_Paulo] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 102
+[07-Mar-2019 23:16:26 America/Sao_Paulo] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 104
+[07-Mar-2019 23:16:47 America/Sao_Paulo] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 104
+[07-Mar-2019 23:16:48 America/Sao_Paulo] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 104
+[07-Mar-2019 23:16:56 America/Sao_Paulo] PHP Warning:  rtrim() expects parameter 1 to be string, object given in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 132
+[07-Mar-2019 23:16:57 America/Sao_Paulo] PHP Warning:  rtrim() expects parameter 1 to be string, object given in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 132
+[07-Mar-2019 23:17:19 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DOMElement could not be converted to string in /home/checkbuscaa/public_html/sixapi/lib/filtro.php on line 30
+[07-Mar-2019 23:17:45 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DOMElement could not be converted to string in /home/checkbuscaa/public_html/sixapi/lib/filtro.php on line 30
+[07-Mar-2019 23:17:46 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DOMElement could not be converted to string in /home/checkbuscaa/public_html/sixapi/lib/filtro.php on line 30
+[08-Mar-2019 11:34:51 America/Sao_Paulo] PHP Warning:  file_get_contents(cnh1.html): failed to open stream: No such file or directory in /home/checkbuscaa/public_html/sixapi/lib/condutor.php on line 4
+[08-Mar-2019 11:35:02 America/Sao_Paulo] PHP Warning:  file_get_contents(cnh1.html): failed to open stream: No such file or directory in /home/checkbuscaa/public_html/sixapi/lib/condutor.php on line 4
+[08-Mar-2019 11:35:02 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/checkbuscaa/public_html/sixapi/lib/condutor.php:4) in /home/checkbuscaa/public_html/sixapi/con.php on line 148
+[08-Mar-2019 15:26:31 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:17:48 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:17:53 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:17:59 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:18:06 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:19:55 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:20:01 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:20:06 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:20:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:20:31 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:20:36 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:20:41 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:20:48 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:20:57 America/Sao_Paulo] PHP Fatal error:  Call to a member function item() on a non-object in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 41
+[08-Mar-2019 18:22:57 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type DOMNodeList as array in /home/checkbuscaa/public_html/sixapi/lib/veiculoCnpj.php on line 58
+[08-Mar-2019 19:22:20 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 69
+[08-Mar-2019 19:22:20 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 43
+[08-Mar-2019 19:22:20 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 69
+[08-Mar-2019 19:22:20 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 50
+[08-Mar-2019 19:22:20 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 69
+[08-Mar-2019 19:22:20 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 50
+[08-Mar-2019 19:22:30 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 69
+[08-Mar-2019 19:22:30 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 50
+[08-Mar-2019 19:22:30 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 69
+[08-Mar-2019 19:22:30 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 50
+[08-Mar-2019 19:24:19 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 69
+[08-Mar-2019 19:24:19 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 43
+[08-Mar-2019 19:24:19 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 69
+[08-Mar-2019 19:24:19 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 50
+[08-Mar-2019 19:24:19 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 69
+[08-Mar-2019 19:24:19 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 50
+[08-Mar-2019 19:24:49 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 71
+[08-Mar-2019 19:24:49 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 43
+[08-Mar-2019 19:24:54 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 73
+[08-Mar-2019 19:24:57 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 73
+[08-Mar-2019 19:25:37 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 73
+[08-Mar-2019 19:25:38 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 73
+[08-Mar-2019 19:25:46 America/Sao_Paulo] PHP Warning:  stristr(): Empty needle in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 73
+[08-Mar-2019 19:26:23 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 43
+[08-Mar-2019 19:26:24 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 43
+[08-Mar-2019 19:26:49 America/Sao_Paulo] PHP Warning:  stristr() expects parameter 1 to be string, array given in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 74
+[08-Mar-2019 19:26:49 America/Sao_Paulo] PHP Warning:  stristr() expects parameter 1 to be string, array given in /home/checkbuscaa/public_html/sixapi/lib/util.php on line 74
+[08-Mar-2019 19:28:28 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/checkbuscaa/public_html/sixapi/autologin.php on line 36
+[08-Mar-2019 19:28:34 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/checkbuscaa/public_html/sixapi/autologin.php on line 36
+[08-Mar-2019 19:28:50 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/checkbuscaa/public_html/sixapi/autologin.php on line 37
